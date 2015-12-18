@@ -1,0 +1,6 @@
+com/conicoll/wormApi/dao/WormDAO.class
+com/conicoll/wormApi/WormApiConfiguration.class
+com/conicoll/wormApi/dao/mappers/HeroMapper.class
+com/conicoll/wormApi/resources/WormResource.class
+com/conicoll/wormApi/App.class
+com/conicoll/wormApi/models/Hero.class

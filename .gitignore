@@ -23,7 +23,6 @@ project
 *.idea/*
 
 # Java Resources
-/target
 /*.iml
 /images
 /files

@@ -1,0 +1,6 @@
+/Users/conicoll/gitrepo/worm/dw-worm-api/src/main/java/com/conicoll/wormApi/App.java
+/Users/conicoll/gitrepo/worm/dw-worm-api/src/main/java/com/conicoll/wormApi/models/Hero.java
+/Users/conicoll/gitrepo/worm/dw-worm-api/src/main/java/com/conicoll/wormApi/WormApiConfiguration.java
+/Users/conicoll/gitrepo/worm/dw-worm-api/src/main/java/com/conicoll/wormApi/dao/WormDAO.java
+/Users/conicoll/gitrepo/worm/dw-worm-api/src/main/java/com/conicoll/wormApi/resources/WormResource.java
+/Users/conicoll/gitrepo/worm/dw-worm-api/src/main/java/com/conicoll/wormApi/dao/mappers/HeroMapper.java
