@@ -42,4 +42,12 @@ public class WormResource
         Hero hero = wormDAO.getHeroById(id);
         return Response.ok(hero).build();
     }
+
+    @GET
+    @Path("/name/{name}")
+    public Response getHeroByName(@PathParam("name") String name)
+    {
+        Hero hero = wormDAO.getHeroByHeroName(name);
+        return Response.ok(hero).build();
+    }
 }

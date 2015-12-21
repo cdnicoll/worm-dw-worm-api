@@ -19,6 +19,10 @@ public interface WormDAO
 
 
     @Mapper(HeroMapper.class)
+    @SqlQuery("SELECT * FROM `heroes` WHERE `heroname` = :name")
+    Hero getHeroByHeroName(@Bind("name") String name);
+
+    @Mapper(HeroMapper.class)
     @SqlQuery("SELECT * FROM heroes")
     List<Hero> getAllHeroes();
 }
